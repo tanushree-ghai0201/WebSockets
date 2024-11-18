@@ -1,3 +1,3 @@
-package com.websocket.poc.config.model;
+package com.websocket.poc.model;
 
 public record Greeting(String content) {}
